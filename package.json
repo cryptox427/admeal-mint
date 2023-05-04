@@ -1,6 +1,6 @@
 {
   "name": "Admeal NFT Landing",
-  "version": "v1.0.0",
+  "version": "v0.0.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
